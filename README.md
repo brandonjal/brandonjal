@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Brandon 🇲🇽! 👋</h1>
+<h1 align="center">Hi there, I'm Brandon! 👋</h1>
 
 ## Learn about me!
 
